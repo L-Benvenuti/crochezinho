@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector("button").addEventListener("click",(()=>{const e=document.querySelector("input");"relaxaMama"===e.value?alert("thats right"):alert("oopsies"),e.value=""})),document.querySelector(".whatsapp").addEventListener("click",(()=>{window.open("https://wa.me/5547991502002","_blank")}))})();
